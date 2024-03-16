@@ -15,6 +15,7 @@ const About = () => {
         </div>
         <div className="about-col">
           <img
+          
             src="/img/about.png"
             width={'100'}
             height={'300'}
